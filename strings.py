@@ -4,3 +4,6 @@ print(story.capitalize())
 print(story.count("a"))
 print(type("story"))
 print(story.replace("hello", "hi"))
+jsdjkdkgdhjsbdkhbsd
+djsgdigskhjbdkhjsbd
+nsgdigksdkj
