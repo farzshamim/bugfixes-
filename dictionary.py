@@ -9,5 +9,4 @@ for key,value in info.items():
     print(f"The value corresponding to the key {key} is {value}")
     print(" everything is great")
     print(" everything is great")
-
-hello
+print ("bugfix")
